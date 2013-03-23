@@ -2,7 +2,7 @@
 	 "name":				"openlss/func-proc"
 	,"homepage":			"http://openlss.org"
 	,"description":			"Process helper functions"
-	,"license":				"LGPLv2"
+	,"license":				"LGPL-3.0+"
 	,"type":				"library"
 	,"keywords": [
 		 "process"
