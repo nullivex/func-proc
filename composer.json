@@ -1,0 +1,28 @@
+{
+	 "name":				"openlss/func-proc"
+	,"homepage":			"http://openlss.org"
+	,"description":			"Process helper functions"
+	,"license":				"LGPLv2"
+	,"type":				"library"
+	,"keywords": [
+		 "process"
+		,"proc_open"
+		,"command"
+		,"bash"
+	]
+	,"authors": [
+		 {
+			 "name":		"Bryan Tong"
+			,"email":		"contact@nullivex.com"
+			,"homepage":	"http://bryantong.com"
+		}
+		,{
+			 "name":		"Tony Butler"
+			,"email":		"spudz76@gmail.com"
+			,"homepage":	"http://openlss.org"
+		}
+	]
+	,"require": {
+		 "php":					">=5.3.2"
+	}
+}
