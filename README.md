@@ -6,8 +6,6 @@ Process handling functions for executing commands with BASH
 Usage
 ----
 ```php
-ld('func/proc');
-
 $out = run('whoami'); //returns root
 ```
 
